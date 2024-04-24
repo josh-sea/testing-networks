@@ -1,0 +1,5 @@
+# downloaded model data
+data
+
+# trained path
+trained_main_network.pth
